@@ -4,10 +4,10 @@ A clone of the Github "Profile" screen, using Axios to request users API from Gi
 
 ### 🕹 Technologies:
 
-- [Html](https://nodejs.org/en/)
-- [Css](https://pt-br.reactjs.org/)
-- [Javascript](https://reactnative.dev/)
-- [Axios](https://expo.io/)
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Axios](https://github.com/axios/axios)
 
 **Feito por Marco Antonio 😄**
 
