@@ -9,5 +9,8 @@ A clone of the Github "Profile" screen, using Axios to request users API from Gi
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Axios](https://github.com/axios/axios)
 
+###Preview
+![alt text](https://raw.githubusercontent.com/marcoantonioap/perfil-screen-github-axios/master/assets/Capturar.png)
+
 **Feito por Marco Antonio 😄**
 
