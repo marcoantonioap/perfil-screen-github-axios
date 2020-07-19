@@ -1,4 +1,4 @@
-# Perfil-screen-github-axios
+# Perfil-screen-github-axios V1
 
 A clone of the Github "Profile" screen, using Axios to request users API from Github
 
@@ -11,6 +11,8 @@ A clone of the Github "Profile" screen, using Axios to request users API from Gi
 
 ### Preview:
 ![Capturar](https://user-images.githubusercontent.com/65511251/87864603-a74aab80-c940-11ea-9b6f-f43648e98210.PNG)
+![Capturar2](https://user-images.githubusercontent.com/65511251/87864617-c5b0a700-c940-11ea-983f-f74b75a1bd66.PNG)
+![Capturar3](https://user-images.githubusercontent.com/65511251/87864618-c6e1d400-c940-11ea-9c61-d0f853a81a00.PNG)
 
 **Feito por Marco Antonio 😄**
 
