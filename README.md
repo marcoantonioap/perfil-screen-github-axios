@@ -10,7 +10,7 @@ A clone of the Github "Profile" screen, using Axios to request users API from Gi
 - [Axios](https://github.com/axios/axios)
 
 ### Preview:
-![Screenshot](Capturar.png)
+![Capturar](https://user-images.githubusercontent.com/65511251/87864603-a74aab80-c940-11ea-9b6f-f43648e98210.PNG)
 
 **Feito por Marco Antonio 😄**
 
