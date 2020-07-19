@@ -79,26 +79,26 @@ function renderRepositories(repositories) {
                         document.getElementById('linkao').innerHTML = '<a href="' + abc + '">Link</a>';
                         
                     }else if(repo == repositories[1]){
-                        h1Element2.appendChild(textElement);
+                        h1Element20.appendChild(textElement);
                         var abc = linkElement;
                         document.getElementById('linkao1').innerHTML = '<a href="' + abc + '">Link</a>';
                     }
                     else if(repo == repositories[2]){
-                        h1Element20.appendChild(textElement);
-                        var abc = linkElement;
-                        document.getElementById('linkao2').innerHTML = '<a href="' + abc + '">Link</a>';
-                    }else if(repo == repositories[3]){
-                        h1Element22.appendChild(textElement);
+                        h1Element2.appendChild(textElement);                        
                         var abc = linkElement;
                         document.getElementById('linkao3').innerHTML = '<a href="' + abc + '">Link</a>';
-                    }else if(repo == repositories[4]){
-                        h1Element3.appendChild(textElement);
-                        var abc = linkElement;
-                        document.getElementById('linkao4').innerHTML = '<a href="' + abc + '">Link</a>';
-                    }else if(repo == repositories[5]){
+                    }else if(repo == repositories[3]){
                         h1Element33.appendChild(textElement);
                         var abc = linkElement;
                         document.getElementById('linkao5').innerHTML = '<a href="' + abc + '">Link</a>';
+                    }else if(repo == repositories[4]){
+                        h1Element3.appendChild(textElement);
+                        var abc = linkElement;
+                        document.getElementById('linkao2').innerHTML = '<a href="' + abc + '">Link</a>';
+                    }else if(repo == repositories[5]){ 
+                        h1Element22.appendChild(textElement);
+                        var abc = linkElement;
+                        document.getElementById('linkao4').innerHTML = '<a href="' + abc + '">Link</a>';
                     }
                   }                  
   }
@@ -171,7 +171,6 @@ function listRepositories() {
           alert(error);
       })
   }
-
 
 
    
