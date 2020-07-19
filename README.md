@@ -19,5 +19,5 @@ A clone of the Github "Profile" screen, using Axios to request users API from Gi
 ### And type a new user...
 ![Capturar3](https://user-images.githubusercontent.com/65511251/87864618-c6e1d400-c940-11ea-9c61-d0f853a81a00.PNG)
 
-** Made by Marco Antonio 😄**
+**Made by Marco Antonio 😄**
 
