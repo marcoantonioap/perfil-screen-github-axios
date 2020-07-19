@@ -1,0 +1,83 @@
+<html>
+    <head>
+        <title>Curso Javascript</title>
+        <meta charset="utf8"></meta>
+        <link href="./css/styles.css" rel="stylesheet" />
+        <script src="https://unpkg.com/feather-icons"></script>      
+    </head>
+    <body>
+        <div style="margin: -8;">
+            <div id="header">
+                <button id="buttoneditperfil" onclick="listRepositories()">Search</button> 
+                <input type="text" name="user" placeholder="marcoantonioap" />      
+                <button id="buttoneditperfil" onclick="limpar()">Clean</button> 
+            </div>
+            <div id="header2">
+                <h1 style="color: white;">Header</h1>
+                <h1 style="color: white;">Header</h1>
+            </div>            
+        </div>        
+        
+        <div id="container">
+            <div id="perfilcontent">
+                <img id="theimg" alt="foto-de-perfil"/>
+
+                <div>
+                    <h1 id="nameperfil"></h1>
+                    <p id="bioperfil"></p>
+                </div>
+                
+                <button id="buttoneditperfil2">
+                    Edit Profile
+                </button>
+                
+                <div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: -10;">
+                    <p id="followersperfil" style="color: #1c1c1c;"></p>
+                    <p id="followingperfil"><p>
+                </div>
+
+                <div style="padding-top: -30;">
+                    <p id="blogperfil"><a href="" id="linkedin"></a></p>
+                    <p id="companyperfil"></p>
+                    <p id="locationperfil"></p>
+                    <p id="emailperfil"></p>
+                </div>                
+            </div>     
+
+            <div id="repositories">
+                <div id="reposcontent">
+                    <div class="repo"  id="repo">
+                        <h1 id="titleH1"></h1>
+                        <a class="
+                        aRepos" href="" id="linkao"></a>
+                    </div>
+                    <div class="repo"  id="repo1">
+                        <h1 id="titleH2"></h1>
+                        <a class="aRepos" href="" id="linkao1"></a>
+                    </div>
+                    <div class="repo"  id="repo2">
+                        <h1 id="titleH3"></h1>
+                        <a class="aRepos" href="" id="linkao2"></a>
+                    </div>
+                </div>  
+                <div id="reposcontent2">
+                    <div class="repo" id="repo3">
+                        <h1 id="title2H1"></h1>
+                        <a class="aRepos" href="" id="linkao3"></a>
+                    </div>
+                    <div class="repo" id="repo4">
+                        <h1 id="title2H2"></h1>
+                        <a class="aRepos" href="" id="linkao4"></a>
+                    </div>
+                    <div class="repo" id="repo5">
+                        <h1 id="title2H3"></h1>
+                        <a class="aRepos" href="" id="linkao5"></a>
+                    </div>
+                </div>  
+            </div>                 
+                                    
+        </div>        
+        <script src="https://unpkg.com/axios/dist/axios.min.js"></script>                   
+        <script src="./js/script.js"></script>  
+     </body>
+</html>
