@@ -9,7 +9,7 @@ A clone of the Github "Profile" screen, using Axios to request users API from Gi
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Axios](https://github.com/axios/axios)
 
-## ![alt text](https://github.com/urielcaire/learnmd/blob/master/imgs/solaire.gif "Praise the sun!") ## Preview:
+## ![alt text](https://github.com/urielcaire/learnmd/blob/master/imgs/solaire.gif "Praise the sun!") Preview:
 ### Type a user and click in Search
 ![Capturar](https://user-images.githubusercontent.com/65511251/87864603-a74aab80-c940-11ea-9b6f-f43648e98210.PNG)
 
